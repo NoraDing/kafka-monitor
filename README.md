@@ -214,3 +214,4 @@ attribute-name of the JMX metric in the query above.
 - [Service and App Overview](https://github.com/linkedin/kafka-monitor/wiki)
 - [Future Work](https://github.com/linkedin/kafka-monitor/wiki/Future-Work)
 - [Application Configuration](https://github.com/linkedin/kafka-monitor/wiki/App-Configuration)
+kafka-monitor
